@@ -1,7 +1,7 @@
 {
-  "name": "tenslot1234",
-  "main": "./lib/baby666",
-  "version": "30.11.2",
+  "name": "tenslot12345999",
+  "main": "./lib/golften01",
+  "version": "0.0.0",
   "description": "ดูบอลสด ดูบอล แจ๋วว  ดูบอลสดวันนี้ ดูบอลสด99 ดูบอลสด66 ดูบอลสด7m dooball66 dooballsod dooball2you dooball4k dooball88 dooballfree dooballhd dooballvip dooball99 ดูบอลสดdb ดูบอลสดไม่กระตุก ดูบอลสดไทยลีก ดูบอลสด88  ดูบอลสด99 ดูบอล666 ดูบอลสด66 ดูบอล99  ดูบอลสด7m ดูบอล88",
   "keywords": [
     "ดูบอลสด",
@@ -10,9 +10,9 @@
     "ดูบอลสด66"
   ],
   "activationCommands": {
-    "atom-workspace": "baby666:toggle"
+    "atom-workspace": "golften01:toggle"
   },
-  "repository": "https://github.com/nikini05/golften01.git",
+  "repository": "https://github.com/nikini05/golften01",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
